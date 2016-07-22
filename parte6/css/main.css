@@ -1,0 +1,22 @@
+div {
+	width: 200px;
+	height: 200px;
+}
+body {
+	margin: 0px;
+	padding: 0px;
+}
+.box-red {
+	background: #ee3e64; 
+}
+.box-blue {
+	background: #44accf;
+	position:absolute;
+	left: 200px;
+}
+.box-verde {
+	background: #b7d84b;
+}
+.box-amarillo {
+	background: yellow;
+}

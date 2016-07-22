@@ -1,0 +1,29 @@
+div {
+	width: 200px;
+	height: 200px;
+	position: absolute;
+}
+body {
+	margin: 0px;
+	padding: 0px;
+}
+.box-red {
+	background: #ee3e64; 
+	left: 0;
+	top: 0;
+}
+.box-blue {
+	background: #44accf;
+	right: 0;
+	top: 0;
+}
+.box-green {
+	background: #b7d84b;
+	left:0;
+	bottom: 0;
+}
+.box-yellow {
+	background: yellow;
+	right: 0;
+	bottom: 0;
+}

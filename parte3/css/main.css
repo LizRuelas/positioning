@@ -1,0 +1,22 @@
+div {
+	width: 200px;
+	height: 200px;
+}
+body {
+	margin: 0px;
+	padding: 0px;
+}
+.box-red {
+	background: #ee3e64; 
+}
+.box-blue {
+	background: #44accf;
+	position: relative;
+	top: 0;
+	bottom:0;
+	right:0; 
+	left:200px;
+}
+.box-reen {
+	background: #b7d84b;
+}
